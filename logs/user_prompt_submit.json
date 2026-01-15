@@ -1,0 +1,66 @@
+[
+  {
+    "session_id": "57ed67ac-2bd7-4367-9402-225a5ad61c75",
+    "transcript_path": "/Users/wolfgangschoenberger/.claude/projects/-Users-wolfgangschoenberger-Projects-fgp/57ed67ac-2bd7-4367-9402-225a5ad61c75.jsonl",
+    "cwd": "/Users/wolfgangschoenberger/Projects/fgp/gmail",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "test the gmail attachment changes live"
+  },
+  {
+    "session_id": "57ed67ac-2bd7-4367-9402-225a5ad61c75",
+    "transcript_path": "/Users/wolfgangschoenberger/.claude/projects/-Users-wolfgangschoenberger-Projects-fgp/57ed67ac-2bd7-4367-9402-225a5ad61c75.jsonl",
+    "cwd": "/Users/wolfgangschoenberger/Projects/fgp/gmail",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "<task-notification>\n<task-id>b89d52b</task-id>\n<output-file>/tmp/claude/-Users-wolfgangschoenberger-Projects-fgp/tasks/b89d52b.output</output-file>\n<status>completed</status>\n<summary>Background command \"Start Gmail daemon\" completed (exit code 0)</summary>\n</task-notification>\nRead the output file to retrieve the result: /tmp/claude/-Users-wolfgangschoenberger-Projects-fgp/tasks/b89d52b.output"
+  },
+  {
+    "session_id": "57ed67ac-2bd7-4367-9402-225a5ad61c75",
+    "transcript_path": "/Users/wolfgangschoenberger/.claude/projects/-Users-wolfgangschoenberger-Projects-fgp/57ed67ac-2bd7-4367-9402-225a5ad61c75.jsonl",
+    "cwd": "/Users/wolfgangschoenberger/Projects/fgp/gmail",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "<task-notification>\n<task-id>bd86147</task-id>\n<output-file>/tmp/claude/-Users-wolfgangschoenberger-Projects-fgp/tasks/bd86147.output</output-file>\n<status>completed</status>\n<summary>Background command \"Restart Gmail daemon\" completed (exit code 0)</summary>\n</task-notification>\nRead the output file to retrieve the result: /tmp/claude/-Users-wolfgangschoenberger-Projects-fgp/tasks/bd86147.output"
+  },
+  {
+    "session_id": "57ed67ac-2bd7-4367-9402-225a5ad61c75",
+    "transcript_path": "/Users/wolfgangschoenberger/.claude/projects/-Users-wolfgangschoenberger-Projects-fgp/57ed67ac-2bd7-4367-9402-225a5ad61c75.jsonl",
+    "cwd": "/Users/wolfgangschoenberger/Projects/fgp/gmail",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "merge the PR"
+  },
+  {
+    "session_id": "57ed67ac-2bd7-4367-9402-225a5ad61c75",
+    "transcript_path": "/Users/wolfgangschoenberger/.claude/projects/-Users-wolfgangschoenberger-Projects-fgp/57ed67ac-2bd7-4367-9402-225a5ad61c75.jsonl",
+    "cwd": "/Users/wolfgangschoenberger/Projects/fgp/gmail",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "what's next on the fgp plan"
+  },
+  {
+    "session_id": "57ed67ac-2bd7-4367-9402-225a5ad61c75",
+    "transcript_path": "/Users/wolfgangschoenberger/.claude/projects/-Users-wolfgangschoenberger-Projects-fgp/57ed67ac-2bd7-4367-9402-225a5ad61c75.jsonl",
+    "cwd": "/Users/wolfgangschoenberger/Projects/fgp/gmail",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "yes do the CLI tool"
+  },
+  {
+    "session_id": "57ed67ac-2bd7-4367-9402-225a5ad61c75",
+    "transcript_path": "/Users/wolfgangschoenberger/.claude/projects/-Users-wolfgangschoenberger-Projects-fgp/57ed67ac-2bd7-4367-9402-225a5ad61c75.jsonl",
+    "cwd": "/Users/wolfgangschoenberger/Projects/fgp/gmail",
+    "permission_mode": "plan",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "yes do the CLI tool and t3 if you have time  ultrathink"
+  },
+  {
+    "session_id": "57ed67ac-2bd7-4367-9402-225a5ad61c75",
+    "transcript_path": "/Users/wolfgangschoenberger/.claude/projects/-Users-wolfgangschoenberger-Projects-fgp/57ed67ac-2bd7-4367-9402-225a5ad61c75.jsonl",
+    "cwd": "/Users/wolfgangschoenberger/Projects/fgp/gmail",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "UserPromptSubmit",
+    "prompt": "commit the benchmarks and manifest changes"
+  }
+]
