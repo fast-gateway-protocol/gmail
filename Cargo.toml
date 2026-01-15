@@ -13,7 +13,7 @@ path = "src/main.rs"
 
 [dependencies]
 # FGP daemon SDK with Python support for warm connections
-fgp-daemon = { path = "../daemon", features = ["python"] }
+fgp-daemon = { git = "https://github.com/fast-gateway-protocol/daemon.git", features = ["python"] }
 
 # Serialization
 serde = { version = "1", features = ["derive"] }

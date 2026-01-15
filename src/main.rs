@@ -111,8 +111,8 @@ fn main() -> Result<()> {
     let module_path = find_module_path()?;
     println!("Loading Python module: {}", module_path.display());
 
-    let module = PythonModule::load(&module_path, "GmailModule")
-        .context("Failed to load GmailModule")?;
+    let module =
+        PythonModule::load(&module_path, "GmailModule").context("Failed to load GmailModule")?;
 
     println!("Gmail service initialized (warm connection ready)");
     println!();
