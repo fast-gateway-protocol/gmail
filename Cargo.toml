@@ -5,15 +5,15 @@ edition = "2021"
 description = "FGP daemon for Gmail - fast email operations"
 authors = ["Wolfgang Schoenberger"]
 license = "MIT"
-repository = "https://github.com/wolfiesch/fgp-gmail"
+repository = "https://github.com/fast-gateway-protocol/gmail"
 
 [[bin]]
 name = "fgp-gmail"
 path = "src/main.rs"
 
 [dependencies]
-# FGP daemon SDK
-fgp-daemon = { path = "../fgp-daemon" }
+# FGP daemon SDK with Python support for warm connections
+fgp-daemon = { path = "../daemon", features = ["python"] }
 
 # Serialization
 serde = { version = "1", features = ["derive"] }
